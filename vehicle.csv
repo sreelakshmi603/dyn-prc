@@ -1,0 +1,201 @@
+vehicle_id,vehicle_name,vehicle_company,vehicle_model,model_year,price,km_covered,mileage,description,customer_review_rating,customer_review_description,years_used
+1,"Honda City","Honda","City",2018,800000,30000,18,"Sleek sedan with comfortable interiors. Great for city driving.",8,"Smooth driving experience. Comfortable seats.",4
+2,"Toyota Corolla","Toyota","Corolla",2017,850000,35000,16,"Reliable and spacious sedan. Suitable for family outings.",8.5,"Excellent car for long drives. Spacious interiors.",5
+3,"Maruti Suzuki Swift","Maruti Suzuki","Swift",2019,600000,20000,20,"Compact and fuel-efficient hatchback. Perfect for city commute.",7.5,"Decent performance for its price range.",3
+4,"Hyundai i20","Hyundai","i20",2016,550000,40000,15,"Stylish and feature-packed hatchback. Ideal for urban driving.",7,"Good value for money. Comfortable ride quality.",6
+5,"Ford EcoSport","Ford","EcoSport",2018,900000,25000,17,"Compact SUV with a powerful engine. Suitable for off-road adventures.",9,"Excellent build quality. Powerful engine performance.",4
+6,"Mahindra XUV500","Mahindra","XUV500",2017,1100000,45000,14,"Spacious and rugged SUV. Perfect for long drives with family.",8.5,"Comfortable seating arrangement. Great for highway drives.",5
+7,"Tata Tiago","Tata","Tiago",2020,550000,15000,22,"Affordable and stylish hatchback. Offers good fuel efficiency.",7,"Decent features for its price. Easy to maneuver in city traffic.",2
+8,"Volkswagen Polo","Volkswagen","Polo",2019,650000,18000,21,"Well-built and sporty hatchback. Offers a fun driving experience.",8,"Fun to drive. Solid build quality.",3
+9,"Renault Duster","Renault","Duster",2015,750000,50000,13,"Rugged and reliable SUV. Performs well on all terrains.",7.5,"Good off-road capabilities. Spacious interior.",7
+10,"Chevrolet Beat","Chevrolet","Beat",2017,400000,30000,19,"Compact and fuel-efficient hatchback. Ideal for daily commutes.",7,"Decent performance. Easy to park in tight spaces.",5
+11,"Nissan Micra","Nissan","Micra",2016,450000,35000,18,"Stylish and compact hatchback. Offers good value for money.",7,"Smooth driving experience. Comfortable interiors.",6
+12,"Skoda Rapid","Skoda","Rapid",2018,850000,25000,17,"Premium sedan with a powerful engine. Offers a luxurious ride.",9,"Luxurious interiors. Smooth acceleration.",4
+13,"BMW 3 Series","BMW","3 Series",2019,3000000,20000,15,"Luxurious sedan with cutting-edge features. Exudes elegance.",9.5,"Best-in-class luxury and performance.",3
+14,"Audi Q7","Audi","Q7",2017,4500000,30000,12,"Premium SUV with advanced safety features. Offers unmatched comfort.",9,"Impressive road presence. Luxurious interiors.",5
+15,"Mercedes-Benz C-Class","Mercedes-Benz","C-Class",2018,3500000,25000,14,"Iconic luxury sedan known for its comfort and performance.",9,"Smooth driving experience. Elegant design.",4
+16,"Toyota Fortuner","Toyota","Fortuner",2016,2800000,40000,13,"Powerful and rugged SUV. Perfect for off-road enthusiasts.",8.5,"Robust build quality. Great for long drives.",6
+17,"Maruti Suzuki Vitara Brezza","Maruti Suzuki","Vitara Brezza",2019,950000,18000,16,"Compact SUV with modern features. Offers good fuel efficiency.",8,"Spacious cabin. Smooth ride quality.",3
+18,"Hyundai Verna","Hyundai","Verna",2017,900000,30000,15,"Sleek and stylish sedan with comfortable interiors.",8.5,"Comfortable ride quality. Premium features.",5
+19,"Ford Endeavour","Ford","Endeavour",2018,3000000,25000,14,"Robust and feature-loaded SUV. Ideal for adventure seekers.",9,"Powerful engine. Luxurious interiors.",4
+20,"Mahindra Scorpio","Mahindra","Scorpio",2016,1200000,50000,12,"Rugged and reliable SUV with a commanding road presence.",8,"Tough build quality. Suitable for all terrains.",6
+21,"Tata Nexon","Tata","Nexon",2020,850000,15000,19,"Compact SUV with modern styling and advanced features.",8,"Great value for money. Comfortable ride quality.",2
+22,"Volkswagen Vento","Volkswagen","Vento",2019,800000,18000,18,"Premium sedan known for its solid build and refined interiors.",8.5,"Solid build quality. Smooth driving experience.",3
+23,"Renault Kwid","Renault","Kwid",2017,450000,30000,20,"Compact hatchback with SUV-inspired design elements.",7,"Stylish looks. Affordable pricing.",5
+24,"Chevrolet Cruze","Chevrolet","Cruze",2016,1000000,35000,16,"Sporty sedan with a powerful turbocharged engine.",8,"Strong performance. Comfortable ride.",6
+25,"Nissan Terrano","Nissan","Terrano",2015,800000,40000,14,"Stylish and rugged SUV. Offers good driving dynamics.",7.5,"Solid build quality. Comfortable seating.",7
+26,"Skoda Superb","Skoda","Superb",2018,2200000,25000,14,"Luxurious sedan with a spacious and elegant interior.",9,"Premium features. Comfortable ride.",4
+27,"BMW 5 Series","BMW","5 Series",2019,4000000,20000,12,"Executive sedan with advanced technology and luxury features.",9.5,"Ultimate driving experience. Luxurious interiors.",3
+28,"Audi A4","Audi","A4",2017,3000000,30000,11,"Premium sedan known for its refined performance and elegant design.",9,"Smooth acceleration. Elegant interiors.",5
+29,"Mercedes-Benz E-Class","Mercedes-Benz","E-Class",2018,3800000,25000,13,"Iconic luxury sedan with cutting-edge technology.",9,"Luxurious interiors. Smooth ride.",4
+30,"Toyota Innova Crysta","Toyota","Innova Crysta",2016,1500000,50000,12,"Spacious and comfortable MPV. Perfect for family trips.",8.5,"Comfortable seating. Reliable performance.",6
+31,"Maruti Suzuki Dzire","Maruti Suzuki","Dzire",2019,700000,20000,18,"Compact sedan with fuel-efficient engine options.",8,"Smooth driving experience. Practical features.",3
+32,"Hyundai Creta","Hyundai","Creta",2017,1100000,35000,15,"Popular compact SUV with modern features and stylish design.",8.5,"Stylish looks. Comfortable ride quality.",5
+33,"Ford Figo","Ford","Figo",2018,600000,25000,17,"Compact hatchback with a peppy engine and good driving dynamics.",7.5,"Fun to drive. Practical features.",4
+34,"Mahindra Thar","Mahindra","Thar",2015,900000,40000,13,"Iconic off-roader with rugged design and capable performance.",8,"Great off-road capabilities. Solid build quality.",7
+35,"Tata Harrier","Tata","Harrier",2019,1600000,18000,16,"Stylish and feature-packed SUV with modern design cues.",8.5,"Good road presence. Comfortable interiors.",3
+36,"Volkswagen Polo GT","Volkswagen","Polo GT",2019,900000,18000,21,"Sporty hatchback with powerful engine options and dynamic handling.",8.5,"Agile handling. Strong performance.",3
+37,"Renault Captur","Renault","Captur",2017,850000,30000,14,"Stylish and spacious crossover with SUV-like features.",8,"Comfortable ride. Stylish design.",5
+38,"Chevrolet Spark","Chevrolet","Spark",2016,400000,35000,19,"Compact hatchback with peppy performance and compact dimensions.",7,"Good city car. Easy to park.",6
+39,"Nissan Sunny","Nissan","Sunny",2016,700000,40000,16,"Comfortable sedan with spacious interiors and decent fuel efficiency.",7.5,"Spacious cabin. Smooth ride quality.",6
+40,"Skoda Octavia","Skoda","Octavia",2018,2000000,25000,15,"Premium sedan known for its luxurious features and strong performance.",9,"Luxurious interiors. Smooth ride.",4
+41,"BMW X1","BMW","X1",2017,3500000,30000,12,"Compact luxury SUV with premium features and dynamic driving experience.",8.5,"Luxurious interiors. Agile handling.",5
+42,"Audi Q5","Audi","Q5",2016,3200000,35000,13,"Premium SUV with advanced safety features and refined interiors.",8.5,"Smooth acceleration. Comfortable ride.",6
+43,"Mercedes-Benz GLA","Mercedes-Benz","GLA",2018,3000000,25000,14,"Compact luxury SUV with stylish design and premium features.",9,"Luxurious interiors. Strong performance.",4
+44,"Toyota Yaris","Toyota","Yaris",2019,950000,20000,17,"Premium sedan with spacious interiors and refined ride quality.",8.5,"Smooth driving experience. Comfortable seats.",3
+45,"Maruti Suzuki Baleno","Maruti Suzuki","Baleno",2017,700000,25000,16,"Premium hatchback with spacious cabin and modern features.",8,"Good fuel efficiency. Comfortable ride.",5
+46,"Hyundai Venue","Hyundai","Venue",2019,850000,18000,19,"Compact SUV with stylish design and feature-loaded cabin.",8,"Stylish looks. Comfortable interiors.",3
+47,"Ford Aspire","Ford","Aspire",2018,750000,22000,18,"Compact sedan with powerful engine options and comfortable ride.",8,"Strong performance. Comfortable seating.",4
+48,"Mahindra Marazzo","Mahindra","Marazzo",2018,1200000,30000,15,"Spacious and comfortable MPV with modern features.",8.5,"Comfortable seating arrangement. Smooth ride quality.",4
+49,"Tata Tigor","Tata","Tigor",2019,750000,20000,17,"Stylish and practical compact sedan with good fuel efficiency.",8,"Smooth driving experience. Spacious cabin.",3
+50,"Volkswagen Tiguan","Volkswagen","Tiguan",2017,2500000,35000,14,"Premium SUV with refined interiors and advanced safety features.",9,"Luxurious cabin. Smooth ride quality.",5
+51,"Honda Civic","Honda","Civic",2017,1100000,40000,15,"Elegant and sporty sedan with advanced features.",8.5,"Elegant design. Sporty performance.",5
+52,"Toyota Innova","Toyota","Innova",2018,1400000,30000,14,"Spacious and reliable MPV with comfortable seating.",8,"Spacious interiors. Smooth ride quality.",4
+53,"Maruti Suzuki Ciaz","Maruti Suzuki","Ciaz",2019,900000,25000,16,"Premium sedan with ample legroom and boot space.",8.5,"Comfortable ride. Elegant design.",3
+54,"Hyundai Grand i10","Hyundai","Grand i10",2017,600000,30000,18,"Feature-packed hatchback with modern styling.",7.5,"Good features. Easy to drive.",5
+55,"Ford Mustang","Ford","Mustang",2016,3000000,35000,12,"Iconic muscle car with powerful performance.",9,"Thrilling performance. Bold design.",6
+56,"Mahindra Bolero","Mahindra","Bolero",2015,900000,40000,13,"Sturdy and reliable SUV with robust build.",8,"Rugged design. Reliable performance.",7
+57,"Tata Safari","Tata","Safari",2018,1800000,25000,14,"Classic SUV with modern features.",8,"Solid build quality. Comfortable ride.",4
+58,"Volkswagen T-Roc","Volkswagen","T-Roc",2020,2000000,15000,20,"Stylish and compact SUV with premium features.",8.5,"Stylish design. Comfortable interiors.",2
+59,"Renault Triber","Renault","Triber",2019,700000,20000,17,"Spacious and versatile MPV with modular seating.",8,"Versatile seating arrangement. Good value for money.",3
+60,"Chevrolet Trailblazer","Chevrolet","Trailblazer",2017,2200000,30000,14,"Rugged SUV with powerful engine options.",8,"Powerful performance. Spacious cabin.",5
+61,"Nissan Kicks","Nissan","Kicks",2018,1000000,35000,15,"Stylish and feature-packed SUV with modern design.",8.5,"Good driving dynamics. Comfortable interiors.",4
+62,"Skoda Karoq","Skoda","Karoq",2019,2500000,18000,16,"Premium SUV with luxurious interiors.",9,"Luxurious cabin. Smooth ride quality.",3
+63,"BMW X3","BMW","X3",2016,4000000,40000,12,"Luxurious SUV with advanced technology.",9,"Luxurious interiors. Strong performance.",6
+64,"Audi Q3","Audi","Q3",2017,3500000,30000,13,"Compact luxury SUV with elegant design.",8.5,"Elegant design. Comfortable ride.",5
+65,"Mercedes-Benz GLE","Mercedes-Benz","GLE",2018,4200000,25000,14,"Luxurious SUV with premium features.",9,"Luxurious interiors. Smooth ride quality.",4
+66,"Toyota Camry","Toyota","Camry",2019,3500000,20000,17,"Premium sedan with refined performance.",8.5,"Smooth driving experience. Comfortable interiors.",3
+67,"Maruti Suzuki Wagon R","Maruti Suzuki","Wagon R",2017,500000,30000,18,"Spacious and practical hatchback with good fuel efficiency.",7,"Practical features. Easy to drive.",5
+68,"Hyundai Aura","Hyundai","Aura",2019,700000,20000,17,"Stylish and feature-packed compact sedan.",8,"Stylish design. Feature-packed.",3
+69,"Ford Freestyle","Ford","Freestyle",2018,650000,25000,16,"Crossover with rugged styling and good ground clearance.",7.5,"Rugged design. Practical features.",4
+70,"Mahindra KUV100 NXT","Mahindra","KUV100 NXT",2017,550000,35000,15,"Compact SUV with unique styling.",7,"Distinctive design. Comfortable ride.",5
+71,"Tata Altroz","Tata","Altroz",2020,800000,15000,19,"Premium hatchback with modern features and sleek design.",8,"Sleek design. Feature-rich.",2
+72,"Volkswagen Ameo","Volkswagen","Ameo",2019,700000,18000,18,"Compact sedan with solid build quality and good performance.",8,"Solid build quality. Peppy engine.",3
+73,"Renault Lodgy","Renault","Lodgy",2017,1000000,30000,14,"Spacious and practical MPV with versatile seating.",7.5,"Spacious interiors. Versatile seating.",5
+74,"Chevrolet Enjoy","Chevrolet","Enjoy",2016,800000,40000,13,"Practical MPV with spacious cabin.",7,"Spacious interiors. Practical features.",6
+75,"Nissan Micra Active","Nissan","Micra Active",2015,400000,45000,12,"Compact hatchback with affordable pricing.",6.5,"Affordable pricing. Decent features.",7
+76,"Skoda Fabia","Skoda","Fabia",2018,700000,20000,17,"Premium hatchback with solid build quality and comfortable interiors.",8,"Solid build quality. Comfortable ride.",3
+77,"BMW X5","BMW","X5",2019,5000000,18000,16,"Luxurious SUV with advanced features and strong performance.",9,"Luxurious interiors. Powerful engine.",2
+78,"Audi A6","Audi","A6",2017,4000000,25000,14,"Executive sedan with refined performance and elegant design.",8.5,"Smooth acceleration. Elegant interiors.",4
+79,"Mercedes-Benz GLC","Mercedes-Benz","GLC",2018,3800000,30000,13,"Luxurious SUV with premium features and elegant design.",9,"Luxurious interiors. Smooth ride quality.",3
+80,"Toyota Glanza","Toyota","Glanza",2019,650000,18000,18,"Premium hatchback with modern features.",8,"Modern features. Comfortable ride.",2
+81,"Honda WR-V","Honda","WR-V",2020,900000,15000,19,"Crossover with spacious cabin and modern features.",8,"Spacious interiors. Modern features.",1
+82,"Toyota Urban Cruiser","Toyota","Urban Cruiser",2020,850000,16000,20,"Compact SUV with stylish design and efficient engine options.",8,"Stylish design. Fuel-efficient engine.",1
+83,"Maruti Suzuki Ignis","Maruti Suzuki","Ignis",2017,600000,25000,16,"Compact hatchback with unique styling.",7.5,"Unique styling. Practical features.",4
+84,"Hyundai Santro","Hyundai","Santro",2019,550000,20000,17,"Practical hatchback with comfortable interiors.",7,"Comfortable interiors. Easy to drive.",2
+85,"Ford Ranger","Ford","Ranger",2018,2800000,35000,14,"Rugged pickup truck with powerful performance.",8,"Powerful performance. Rugged design.",3
+86,"Mahindra Alturas G4","Mahindra","Alturas G4",2019,3000000,18000,16,"Luxurious SUV with premium features and strong performance.",9,"Luxurious interiors. Powerful engine.",2
+87,"Tata Nexon EV","Tata","Nexon EV",2020,1200000,15000,19,"Electric compact SUV with modern features.",8.5,"Modern features. Electric powertrain.",1
+88,"Volkswagen Polo Cross","Volkswagen","Polo Cross",2019,900000,18000,21,"Sporty hatchback with rugged styling.",8,"Rugged styling. Fun to drive.",2
+89,"Renault Zoe","Renault","Zoe",2018,1500000,20000,18,"Electric hatchback with futuristic design.",8,"Futuristic design. Electric powertrain.",3
+90,"Chevrolet Trax","Chevrolet","Trax",2017,2000000,25000,16,"Compact SUV with versatile features.",8,"Versatile features. Comfortable ride.",4
+91,"Nissan Leaf","Nissan","Leaf",2016,1800000,30000,14,"Electric hatchback with zero emissions.",8.5,"Zero emissions. Smooth acceleration.",5
+92,"Skoda Kamiq","Skoda","Kamiq",2019,1600000,22000,17,"Compact SUV with modern features.",8.5,"Modern features. Comfortable ride.",2
+93,"BMW 7 Series","BMW","7 Series",2017,5000000,28000,13,"Luxurious sedan with advanced technology and comfort features.",9.5,"Luxurious interiors. Smooth ride quality.",4
+94,"Audi A8","Audi","A8",2018,4500000,32000,12,"Luxury sedan with advanced features and elegant design.",9,"Luxurious interiors. Elegant design.",3
+95,"Mercedes-Benz S-Class","Mercedes-Benz","S-Class",2019,6000000,18000,15,"Iconic luxury sedan with unmatched comfort and performance.",9.5,"Ultimate luxury and comfort. Powerful engine.",2
+96,"Toyota Land Cruiser","Toyota","Land Cruiser",2016,4500000,40000,14,"Rugged and reliable SUV with excellent off-road capabilities.",9,"Great off-road capabilities. Spacious cabin.",6
+97,"Maruti Suzuki Alto","Maruti Suzuki","Alto",2018,300000,45000,20,"Compact and affordable hatchback with good fuel efficiency.",6.5,"Affordable pricing. Fuel-efficient engine.",4
+98,"Hyundai EON","Hyundai","EON",2017,350000,40000,19,"Compact hatchback with modern styling.",7,"Modern design. Easy to drive.",5
+99,"Ford Fiesta","Ford","Fiesta",2016,700000,35000,17,"Sleek sedan with good driving dynamics.",7.5,"Smooth driving experience. Stylish design.",6
+100,"Mahindra Verito","Mahindra","Verito",2015,600000,40000,15,"Spacious sedan with comfortable interiors.",7,"Comfortable ride. Spacious cabin.",7
+101,"Honda CB Shine","Honda",2017,70000,30000,50,8,"Popular commuter bike with refined engine. Smooth riding experience. Reliable engine.",5
+102,"Yamaha FZ-S FI","Yamaha",2016,85000,35000,45,8.5,"Sporty bike with muscular design. Aggressive styling. Smooth performance.",6
+103,"Suzuki Gixxer","Suzuki",2019,100000,20000,40,8,"Stylish and agile bike with good handling. Responsive handling. Modern design.",3
+104,"Kawasaki Ninja 300","Kawasaki",2017,300000,18000,35,9,"Sporty bike with powerful performance. Excellent acceleration. Sharp handling.",4
+105,"Ducati Monster 821","Ducati",2018,800000,25000,30,9,"Naked street bike with premium features. Aggressive styling. Powerful engine.",3
+106,"BMW S 1000 RR","BMW",2016,1200000,30000,25,9.5,"High-performance sportbike with advanced technology. Superb handling. Powerful acceleration.",6
+107,"Aprilia SR 150","Aprilia",2017,90000,35000,40,8,"Sporty scooter with agile handling. Sporty design. Responsive throttle.",5
+108,"Piaggio Vespa","Piaggio",2016,100000,40000,45,8.5,"Iconic scooter known for its retro styling. Classic design. Smooth ride.",6
+109,"Honda Activa 6G","Honda",2020,70000,15000,50,8,"Popular scooter with fuel-efficient engine. Reliable engine. Comfortable ride.",1
+110,"TVS Jupiter","TVS",2019,65000,18000,48,8.5,"Practical scooter with good fuel efficiency. Comfortable ride. Easy to handle.",2
+111,"Hero Maestro Edge","Hero",2017,75000,20000,45,8,"Feature-packed scooter with stylish design. Stylish looks. Decent performance.",4
+112,"Bajaj Dominar 400","Bajaj",2018,180000,25000,35,9,"Powerful cruiser bike with modern features. Comfortable ride. Powerful engine.",3
+113,"KTM RC 200","KTM",2017,180000,18000,40,9,"Aggressive sports bike with track-focused performance. Sharp handling. Responsive throttle.",4
+114,"Royal Enfield Himalayan","Royal Enfield",2016,200000,30000,35,8.5,"Adventure bike with rugged design. Great for off-road adventures. Comfortable seating.",5
+115,"Honda CBR 250R","Honda",2019,220000,20000,38,8.5,"Sporty bike with comfortable ergonomics. Smooth acceleration. Comfortable riding posture.",2
+116,"KTM Duke 200","KTM",2018,200000,20000,30,9,"Sporty bike with powerful performance. Thrilling performance. Agile handling.",4
+117,"Bajaj Pulsar 150","Bajaj",2017,90000,25000,45,8,"Popular commuter bike with decent performance. Good value for money. Reliable engine.",5
+118,"TVS Apache RTR 160","TVS",2019,95000,18000,40,8.5,"Agile and stylish bike with good acceleration. Sporty design. Responsive handling.",3
+119,"Hero Splendor Plus","Hero",2016,60000,40000,55,7,"Classic commuter bike known for its reliability. Fuel-efficient engine. Comfortable ride.",6
+120,"Royal Enfield Classic 350","Royal Enfield",2018,150000,25000,35,9,"Iconic cruiser bike with retro styling. Vintage design. Powerful performance.",4
+121,"Honda CB Shine","Honda",2017,70000,30000,50,8,"Popular commuter bike with refined engine. Smooth riding experience. Reliable engine.",5
+122,"Yamaha FZ-S FI","Yamaha",2016,85000,35000,45,8.5,"Sporty bike with muscular design. Aggressive styling. Smooth performance.",6
+123,"Suzuki Gixxer","Suzuki",2019,100000,20000,40,8,"Stylish and agile bike with good handling. Responsive handling. Modern design.",3
+124,"Kawasaki Ninja 300","Kawasaki",2017,300000,18000,35,9,"Sporty bike with powerful performance. Excellent acceleration. Sharp handling.",4
+125,"Ducati Monster 821","Ducati",2018,800000,25000,30,9,"Naked street bike with premium features. Aggressive styling. Powerful engine.",3
+126,"BMW S 1000 RR","BMW",2016,1200000,30000,25,9.5,"High-performance sportbike with advanced technology. Superb handling. Powerful acceleration.",6
+127,"Aprilia SR 150","Aprilia",2017,90000,35000,40,8,"Sporty scooter with agile handling. Sporty design. Responsive throttle.",5
+128,"Piaggio Vespa","Piaggio",2016,100000,40000,45,8.5,"Iconic scooter known for its retro styling. Classic design. Smooth ride.",6
+129,"Honda Activa 6G","Honda",2020,70000,15000,50,8,"Popular scooter with fuel-efficient engine. Reliable engine. Comfortable ride.",1
+130,"TVS Jupiter","TVS",2019,65000,18000,48,8.5,"Practical scooter with good fuel efficiency. Comfortable ride. Easy to handle.",2
+131,"Hero Maestro Edge","Hero",2017,75000,20000,45,8,"Feature-packed scooter with stylish design. Stylish looks. Decent performance.",4
+132,"Bajaj Dominar 400","Bajaj",2018,180000,25000,35,9,"Powerful cruiser bike with modern features. Comfortable ride. Powerful engine.",3
+133,"KTM RC 200","KTM",2017,180000,18000,40,9,"Aggressive sports bike with track-focused performance. Sharp handling. Responsive throttle.",4
+134,"Royal Enfield Himalayan","Royal Enfield",2016,200000,30000,35,8.5,"Adventure bike with rugged design. Great for off-road adventures. Comfortable seating.",5
+135,"Honda CBR 250R","Honda",2019,220000,20000,38,8.5,"Sporty bike with comfortable ergonomics. Smooth acceleration. Comfortable riding posture.",2
+136,"KTM Duke 200","KTM",2018,200000,20000,30,9,"Sporty bike with powerful performance. Thrilling performance. Agile handling.",4
+137,"Bajaj Pulsar 150","Bajaj",2017,90000,25000,45,8,"Popular commuter bike with decent performance. Good value for money. Reliable engine.",5
+138,"TVS Apache RTR 160","TVS",2019,95000,18000,40,8.5,"Agile and stylish bike with good acceleration. Sporty design. Responsive handling.",3
+139,"Hero Splendor Plus","Hero",2016,60000,40000,55,7,"Classic commuter bike known for its reliability. Fuel-efficient engine. Comfortable ride.",6
+140,"Royal Enfield Classic 350","Royal Enfield",2018,150000,25000,35,9,"Iconic cruiser bike with retro styling. Vintage design. Powerful performance.",4
+141,"Honda CB Shine","Honda",2017,70000,30000,50,8,"Popular commuter bike with refined engine. Smooth riding experience. Reliable engine.",5
+142,"Yamaha FZ-S FI","Yamaha",2016,85000,35000,45,8.5,"Sporty bike with muscular design. Aggressive styling. Smooth performance.",6
+143,"Suzuki Gixxer","Suzuki",2019,100000,20000,40,8,"Stylish and agile bike with good handling. Responsive handling. Modern design.",3
+144,"Kawasaki Ninja 300","Kawasaki",2017,300000,18000,35,9,"Sporty bike with powerful performance. Excellent acceleration. Sharp handling.",4
+145,"Ducati Monster 821","Ducati",2018,800000,25000,30,9,"Naked street bike with premium features. Aggressive styling. Powerful engine.",3
+146,"BMW S 1000 RR","BMW",2016,1200000,30000,25,9.5,"High-performance sportbike with advanced technology. Superb handling. Powerful acceleration.",6
+147,"Aprilia SR 150","Aprilia",2017,90000,35000,40,8,"Sporty scooter with agile handling. Sporty design. Responsive throttle.",5
+148,"Piaggio Vespa","Piaggio",2016,100000,40000,45,8.5,"Iconic scooter known for its retro styling. Classic design. Smooth ride.",6
+149,"Honda Activa 6G","Honda",2020,70000,15000,50,8,"Popular scooter with fuel-efficient engine. Reliable engine. Comfortable ride.",1
+150,"TVS Jupiter","TVS",2019,65000,18000,48,8.5,"Practical scooter with good fuel efficiency. Comfortable ride. Easy to handle.",2
+151,"Hero Maestro Edge","Hero",2017,75000,20000,45,8,"Feature-packed scooter with stylish design. Stylish looks. Decent performance.",4
+152,"Bajaj Dominar 400","Bajaj",2018,180000,25000,35,9,"Powerful cruiser bike with modern features. Comfortable ride. Powerful engine.",3
+153,"KTM RC 200","KTM",2017,180000,18000,40,9,"Aggressive sports bike with track-focused performance. Sharp handling. Responsive throttle.",4
+154,"Royal Enfield Himalayan","Royal Enfield",2016,200000,30000,35,8.5,"Adventure bike with rugged design. Great for off-road adventures. Comfortable seating.",5
+155,"Honda CBR 250R","Honda",2019,220000,20000,38,8.5,"Sporty bike with comfortable ergonomics. Smooth acceleration. Comfortable riding posture.",2
+156,"KTM Duke 200","KTM",2018,200000,20000,30,9,"Sporty bike with powerful performance. Thrilling performance. Agile handling.",4
+157,"Bajaj Pulsar 150","Bajaj",2017,90000,25000,45,8,"Popular commuter bike with decent performance. Good value for money. Reliable engine.",5
+158,"TVS Apache RTR 160","TVS",2019,95000,18000,40,8.5,"Agile and stylish bike with good acceleration. Sporty design. Responsive handling.",3
+159,"Hero Splendor Plus","Hero",2016,60000,40000,55,7,"Classic commuter bike known for its reliability. Fuel-efficient engine. Comfortable ride.",6
+160,"Royal Enfield Classic 350","Royal Enfield",2018,150000,25000,35,9,"Iconic cruiser bike with retro styling. Vintage design. Powerful performance.",4
+161,"Honda CB Shine","Honda",2017,70000,30000,50,8,"Popular commuter bike with refined engine. Smooth riding experience. Reliable engine.",5
+162,"Yamaha FZ-S FI","Yamaha",2016,85000,35000,45,8.5,"Sporty bike with muscular design. Aggressive styling. Smooth performance.",6
+163,"Suzuki Gixxer","Suzuki",2019,100000,20000,40,8,"Stylish and agile bike with good handling. Responsive handling. Modern design.",3
+164,"Kawasaki Ninja 300","Kawasaki",2017,300000,18000,35,9,"Sporty bike with powerful performance. Excellent acceleration. Sharp handling.",4
+165,"Ducati Monster 821","Ducati",2018,800000,25000,30,9,"Naked street bike with premium features. Aggressive styling. Powerful engine.",3
+166,"BMW S 1000 RR","BMW",2016,1200000,30000,25,9.5,"High-performance sportbike with advanced technology. Superb handling. Powerful acceleration.",6
+167,"Aprilia SR 150","Aprilia",2017,90000,35000,40,8,"Sporty scooter with agile handling. Sporty design. Responsive throttle.",5
+168,"Piaggio Vespa","Piaggio",2016,100000,40000,45,8.5,"Iconic scooter known for its retro styling. Classic design. Smooth ride.",6
+169,"Honda Activa 6G","Honda",2020,70000,15000,50,8,"Popular scooter with fuel-efficient engine. Reliable engine. Comfortable ride.",1
+170,"TVS Jupiter","TVS",2019,65000,18000,48,8.5,"Practical scooter with good fuel efficiency. Comfortable ride. Easy to handle.",2
+171,"Hero Maestro Edge","Hero",2017,75000,20000,45,8,"Feature-packed scooter with stylish design. Stylish looks. Decent performance.",4
+172,"Bajaj Dominar 400","Bajaj",2018,180000,25000,35,9,"Powerful cruiser bike with modern features. Comfortable ride. Powerful engine.",3
+173,"KTM RC 200","KTM",2017,180000,18000,40,9,"Aggressive sports bike with track-focused performance. Sharp handling. Responsive throttle.",4
+174,"Royal Enfield Himalayan","Royal Enfield",2016,200000,30000,35,8.5,"Adventure bike with rugged design. Great for off-road adventures. Comfortable seating.",5
+175,"Honda CBR 250R","Honda",2019,220000,20000,38,8.5,"Sporty bike with comfortable ergonomics. Smooth acceleration. Comfortable riding posture.",2
+176,"KTM Duke 200","KTM",2018,200000,20000,30,9,"Sporty bike with powerful performance. Thrilling performance. Agile handling.",4
+177,"Bajaj Pulsar 150","Bajaj",2017,90000,25000,45,8,"Popular commuter bike with decent performance. Good value for money. Reliable engine.",5
+178,"TVS Apache RTR 160","TVS",2019,95000,18000,40,8.5,"Agile and stylish bike with good acceleration. Sporty design. Responsive handling.",3
+179,"Hero Splendor Plus","Hero",2016,60000,40000,55,7,"Classic commuter bike known for its reliability. Fuel-efficient engine. Comfortable ride.",6
+180,"Royal Enfield Classic 350","Royal Enfield",2018,150000,25000,35,9,"Iconic cruiser bike with retro styling. Vintage design. Powerful performance.",4
+181,"Honda CB Shine","Honda",2017,70000,30000,50,8,"Popular commuter bike with refined engine. Smooth riding experience. Reliable engine.",5
+182,"Yamaha FZ-S FI","Yamaha",2016,85000,35000,45,8.5,"Sporty bike with muscular design. Aggressive styling. Smooth performance.",6
+183,"Suzuki Gixxer","Suzuki",2019,100000,20000,40,8,"Stylish and agile bike with good handling. Responsive handling. Modern design.",3
+184,"Kawasaki Ninja 300","Kawasaki",2017,300000,18000,35,9,"Sporty bike with powerful performance. Excellent acceleration. Sharp handling.",4
+185,"Ducati Monster 821","Ducati",2018,800000,25000,30,9,"Naked street bike with premium features. Aggressive styling. Powerful engine.",3
+186,"BMW S 1000 RR","BMW",2016,1200000,30000,25,9.5,"High-performance sportbike with advanced technology. Superb handling. Powerful acceleration.",6
+187,"Aprilia SR 150","Aprilia",2017,90000,35000,40,8,"Sporty scooter with agile handling. Sporty design. Responsive throttle.",5
+188,"Piaggio Vespa","Piaggio",2016,100000,40000,45,8.5,"Iconic scooter known for its retro styling. Classic design. Smooth ride.",6
+189,"Honda Activa 6G","Honda",2020,70000,15000,50,8,"Popular scooter with fuel-efficient engine. Reliable engine. Comfortable ride.",1
+190,"TVS Jupiter","TVS",2019,65000,18000,48,8.5,"Practical scooter with good fuel efficiency. Comfortable ride. Easy to handle.",2
+191,"Hero Maestro Edge","Hero",2017,75000,20000,45,8,"Feature-packed scooter with stylish design. Stylish looks. Decent performance.",4
+192,"Bajaj Dominar 400","Bajaj",2018,180000,25000,35,9,"Powerful cruiser bike with modern features. Comfortable ride. Powerful engine.",3
+193,"KTM RC 200","KTM",2017,180000,18000,40,9,"Aggressive sports bike with track-focused performance. Sharp handling. Responsive throttle.",4
+194,"Royal Enfield Himalayan","Royal Enfield",2016,200000,30000,35,8.5,"Adventure bike with rugged design. Great for off-road adventures. Comfortable seating.",5
+195,"Honda CBR 250R","Honda",2019,220000,20000,38,8.5,"Sporty bike with comfortable ergonomics. Smooth acceleration. Comfortable riding posture.",2
+196,"KTM Duke 200","KTM",2018,200000,20000,30,9,"Sporty bike with powerful performance. Thrilling performance. Agile handling.",4
+197,"Bajaj Pulsar 150","Bajaj",2017,90000,25000,45,8,"Popular commuter bike with decent performance. Good value for money. Reliable engine.",5
+198,"TVS Apache RTR 160","TVS",2019,95000,18000,40,8.5,"Agile and stylish bike with good acceleration. Sporty design. Responsive handling.",3
+199,"Hero Splendor Plus","Hero",2016,60000,40000,55,7,"Classic commuter bike known for its reliability. Fuel-efficient engine. Comfortable ride.",6
+200,"Royal Enfield Classic 350","Royal Enfield",2018,150000,25000,35,9,"Iconic cruiser bike with retro styling. Vintage design. Powerful performance.",4
