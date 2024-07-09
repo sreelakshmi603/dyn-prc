@@ -1,1 +1,1 @@
-# Dynamic Pricing Exploratory Data Analysis : A Streamliy Visualisation
+# Dynamic Pricing Exploratory Data Analysis : A Streamlit Visualisation
